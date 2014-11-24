@@ -2,4 +2,4 @@
 
 <h3> Python & Ruby on Rails </h3>
 
-<strong> <em> Solutions are written for you to pass your current exercise for reaching the following challenges. I tried not to post the answers fully completed since you would not gain anything from it. However you will find the fully completed answers as well since they wouldn't pass some of the exercises. </strong> </em>
+<em> Solutions are written for helping you to improve your coding skills. That's the reason besides fully completed answers you will find some incompleted ones. However they still pass the exercises. Unless your current exercise is impossible to pass without help, copying the solution is not recommended.</em>
